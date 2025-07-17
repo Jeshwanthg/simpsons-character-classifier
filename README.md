@@ -26,3 +26,17 @@ Install them using the provided `requirements.txt`.
 3. Open and run the notebook:
     ```bash
    jupyter notebook simpsons.ipynb
+
+🧠 Model Info
+
+- Input image size: 80x80 (grayscale)
+- Top 10 characters by image count are selected for classification.
+
+📊 Visualization
+
+- The notebook includes:
+- Data preprocessing
+- Model training
+- Loss/accuracy plots
+
+  
